@@ -8,17 +8,17 @@ body {
 /* TEXT:  TITLE */
 h1 {
     text-decoration: underline;
-    font-size: 2rem;
+    font-size: 3rem;
     text-align: center;
 
 }
 /* TEXT: THE INTRODUCTORY PARAGRAPH (H2) AND ALL OTHER FONTS(P) */
 h2 {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
 }
 /* TEXT FOR PARAGRAPHS */
 p {
-    font-size: 1.5rem; 
+    font-size: 2.5rem; 
 }
 /* INSERT A HORIZONTAL ROW */
 hr {
@@ -44,7 +44,15 @@ hr {
     border: 1px yellowgreen solid;
     outline: 2px black;
 }
+#pic2, #pic3 {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 1px yellowgreen solid;
+    outline: 2px black;
+}
 footer {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     text-align: center;
 }
