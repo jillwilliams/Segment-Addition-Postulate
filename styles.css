@@ -52,6 +52,11 @@ hr {
     border: 1px yellowgreen solid;
     outline: 2px black;
 }
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px yellowgreen solid;
+    outline: 2px black;
+}
 footer {
     font-size: 1.5rem;
     text-align: center;
